@@ -1,1 +1,1 @@
-# AI-Research-Journey
+# AI-Research-Portfolio
